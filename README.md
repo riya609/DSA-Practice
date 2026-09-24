@@ -23,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/riya609/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riya609/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/riya609/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/riya609/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/riya609/DSA-Practice/tree/master/0933-number-of-recent-calls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/riya609/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
