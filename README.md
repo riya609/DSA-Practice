@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/riya609/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/riya609/DSA-Practice/tree/master/0605-can-place-flowers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riya609/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riya609/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/riya609/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riya609/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
