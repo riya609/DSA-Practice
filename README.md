@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/riya609/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/riya609/DSA-Practice/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
