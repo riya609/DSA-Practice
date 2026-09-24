@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/riya609/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
+| [0605-can-place-flowers](https://github.com/riya609/DSA-Practice/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/riya609/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/riya609/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/riya609/DSA-Practice/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
