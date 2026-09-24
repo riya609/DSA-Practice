@@ -37,6 +37,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/riya609/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/riya609/DSA-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/riya609/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/riya609/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/riya609/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/riya609/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/riya609/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riya609/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/riya609/DSA-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/riya609/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 | [0155-min-stack](https://github.com/riya609/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/riya609/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/riya609/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/riya609/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
