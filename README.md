@@ -24,6 +24,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riya609/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/riya609/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/riya609/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/riya609/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0225-implement-stack-using-queues](https://github.com/riya609/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/riya609/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/riya609/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/riya609/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
