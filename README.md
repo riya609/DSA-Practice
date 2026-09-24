@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/riya609/DSA-Practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 | [0013-roman-to-integer](https://github.com/riya609/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riya609/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -76,4 +78,20 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/riya609/DSA-Practice/tree/master/0155-min-stack) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
