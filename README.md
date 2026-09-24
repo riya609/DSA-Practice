@@ -12,6 +12,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/riya609/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/riya609/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riya609/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/riya609/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/riya609/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/riya609/DSA-Practice/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/riya609/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/riya609/DSA-Practice/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
 | ------- |
@@ -64,4 +67,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riya609/DSA-Practice/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
