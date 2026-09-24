@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/riya609/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/riya609/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/riya609/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/riya609/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riya609/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -20,6 +21,7 @@
 | [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/riya609/DSA-Practice/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/riya609/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/riya609/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/riya609/DSA-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/riya609/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/riya609/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
