@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riya609/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/riya609/DSA-Practice/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/riya609/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/riya609/DSA-Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
